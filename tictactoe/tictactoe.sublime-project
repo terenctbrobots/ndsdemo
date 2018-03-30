@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+
+		{
+			"path": "source"
+		},
+		{
+			"path": "build",
+			"file_exclude_patterns" : ["*.o","*.s","*.d"]
+		},
+		{
+			"path": "gfx",
+			"file_exclude_patterns" : ["*.png"]
+		},
+
+	]
+}

@@ -1,0 +1,1856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Game",
+				"GameState_Intro"
+			],
+			[
+				"M",
+				"Malay"
+			],
+			[
+				"lc",
+				"localScale\tVector3 { get; set; }"
+			],
+			[
+				"rew",
+				"rewardPilot\tRewardPilot"
+			],
+			[
+				"interf",
+				"interfaceRewardPilot\tInterfaceReward"
+			],
+			[
+				"trait",
+				"spriteTraitIcon\tSprite"
+			],
+			[
+				"new",
+				"newPrefab\tGameObject"
+			],
+			[
+				"loc",
+				"localScale\tVector3 { get; set; }"
+			],
+			[
+				"Vec",
+				"Vector3\tVector3"
+			],
+			[
+				"lo",
+				"localScale\tVector3 { get; set; }"
+			],
+			[
+				"credit",
+				"creditReward\tInterfaceReward"
+			],
+			[
+				"image",
+				"imageTraits\tImage[]"
+			],
+			[
+				"Unti",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"IEnum",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"veh",
+				"vehicle\tGameObject"
+			],
+			[
+				"vehi",
+				"vehicleTransform\tTransform"
+			],
+			[
+				"ve",
+				"vehicleTransform\tTransform"
+			],
+			[
+				"Activate",
+				"ActivateWeapons(bool setActive)\tvoid"
+			],
+			[
+				"vehicl",
+				"vehicleUI\tGameObject"
+			],
+			[
+				"Activ",
+				"ActivateVehicle()\tvoid"
+			],
+			[
+				"vehicle",
+				"vehicleTransform\tTransform"
+			],
+			[
+				"En",
+				"EncodeToPNG()\tbyte[]"
+			],
+			[
+				"cam",
+				"cameraWithRendTexture\tCamera"
+			],
+			[
+				"back",
+				"hangerBackground\tTransform"
+			],
+			[
+				"pre",
+				"prefabHangerBackground\tGameObject"
+			],
+			[
+				"_han",
+				"_hangerBackgroundObjects\tGameObject[]"
+			],
+			[
+				"_",
+				"_hangerBackgroundObjects\tGameObject[]"
+			],
+			[
+				"_cu",
+				"_currentVehicleIndex\tint"
+			],
+			[
+				"Set",
+				"SetVehicle(int index, bool clearLeft, bool clearRight)\tvoid"
+			],
+			[
+				"DOMo",
+				"DOMoveX(float endValue, float duration, bool snapping = false)\tTweener"
+			],
+			[
+				"glo",
+				"GlobalSettings\tGlobalSettings"
+			],
+			[
+				"_ro",
+				"_rotating\tbool"
+			],
+			[
+				"DORo",
+				"DORotate(Vector3 endValue, float duration, RotateMode mode = RotateMode.Fast)\tTweener"
+			],
+			[
+				"ro",
+				"rotation\tQuaternion { get; set; }"
+			],
+			[
+				"modi",
+				"modifierBonusBioTechMultiplier\tfloat"
+			],
+			[
+				"total",
+				"totalBioTech\tint"
+			],
+			[
+				"modif",
+				"modifierBonusSalvageMultiplier\tfloat"
+			],
+			[
+				"bonu",
+				"bonusCredit\tint"
+			],
+			[
+				"bonusBio",
+				"bonusBioTechMultiplier\tfloat"
+			],
+			[
+				"bon",
+				"bonusCredits\tint"
+			],
+			[
+				"cha",
+				"chassisModifier\tModifier"
+			],
+			[
+				"Get",
+				"GetEnabledModifier(Type modifierType)\tModifier"
+			],
+			[
+				"sc",
+				"currentScenario\tScenario { get; }"
+			],
+			[
+				"chec",
+				"checkModifier\tModifier"
+			],
+			[
+				"mod",
+				"modifierType\tType"
+			],
+			[
+				"bu",
+				"buttonDeploy\tGameObject"
+			],
+			[
+				"_miss",
+				"_missionView\tMissionView"
+			],
+			[
+				"dep",
+				"deploymentLocked\tbool"
+			],
+			[
+				"check",
+				"checkChassis\tVehicleTypes"
+			],
+			[
+				"_mi",
+				"_missionView\tMissionView"
+			],
+			[
+				"De",
+				"deployment\tList<VehicleTypes>"
+			],
+			[
+				"cred",
+				"creditReward\tInterfaceReward"
+			],
+			[
+				"honor",
+				"honorReward\tInterfaceReward"
+			],
+			[
+				"rewa",
+				"rewards\tTransform"
+			],
+			[
+				"bonus",
+				"bonusBioTech\tint"
+			],
+			[
+				"sal",
+				"salvageReward\tInterfaceReward"
+			],
+			[
+				"inter",
+				"interfaceRewardSalvage\tInterfaceReward"
+			],
+			[
+				"bonusB",
+				"bonusBioTechMultiplier\tfloat"
+			],
+			[
+				"bonusTe",
+				"bonusBioTechMultiplier\tfloat"
+			],
+			[
+				"bonusSa",
+				"bonusSalvageMultiplier\tfloat"
+			],
+			[
+				"Getco",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"GetComp",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"IOnC",
+				"IPointerClickHandler\tIPointerClickHandler"
+			],
+			[
+				"Eve",
+				"EventSystems\tEventSystems"
+			],
+			[
+				"return",
+				"returnModifiers\tDictionary<Type, List<Modifier>>"
+			],
+			[
+				"Conver",
+				"ConversationData()\tConversationData()"
+			],
+			[
+				"mission",
+				"missionDifficulty\tMissionDifficulty"
+			],
+			[
+				"Is",
+				"IsNullOrEmpty(string value)\tbool"
+			],
+			[
+				"di",
+				"missionDifficulty\tMissionDifficulty"
+			],
+			[
+				"co",
+				"conversationBriefId\tstring"
+			],
+			[
+				"convers",
+				"conversationSummaryId\tstring"
+			],
+			[
+				"Conv",
+				"ConversationData\tConversationData"
+			],
+			[
+				"Ienum",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"ObjectiveS",
+				"objectiveStatus\tStatus"
+			],
+			[
+				"re",
+				"reinforcementData\tReinforcement[]"
+			],
+			[
+				"_pa",
+				"_playerSelected\tAIPilotPlayer"
+			],
+			[
+				"muzz",
+				"muzzleFlashMount\tTransform"
+			],
+			[
+				"AUdio",
+				"AudioSource\tAudioSource"
+			],
+			[
+				"cu",
+				"cueClip\tAudioClip"
+			],
+			[
+				"PilotCu",
+				"PilotCueTypes\tPilotCueTypes"
+			],
+			[
+				"end",
+				"endregion\tendregion"
+			],
+			[
+				"ca",
+				"missionCategory\tCategory { get; }"
+			],
+			[
+				"_mision",
+				"_missionView\tMissionView"
+			],
+			[
+				"mision",
+				"missionDifficulty\tMissionDifficulty"
+			],
+			[
+				"miss",
+				"missionDifficulty\tMissionDifficulty"
+			],
+			[
+				"butto",
+				"buttonDifficulty\tGameObject"
+			],
+			[
+				"te",
+				"textTitle\tText"
+			],
+			[
+				"interfaceReward",
+				"interfaceRewardInfo\tInterfaceReward"
+			],
+			[
+				"rewar",
+				"rewardAvailable\tbool"
+			],
+			[
+				"local",
+				"localBundleMissionData\t?"
+			],
+			[
+				"Sc",
+				"SceneManagement\tSceneManagement"
+			],
+			[
+				"_m",
+				"_missionView\tMissionView"
+			],
+			[
+				"_p",
+				"_patrolIndex\tint"
+			],
+			[
+				"_po",
+				"_patrolIndex\tint"
+			],
+			[
+				"_patr",
+				"_patrolType\tPatrolType"
+			],
+			[
+				"femal",
+				"femaleNames\tList<string>"
+			],
+			[
+				"mal",
+				"maleNames\tList<string>"
+			],
+			[
+				"Number",
+				"NumberOfFirstNamesFemale\tint"
+			],
+			[
+				"maleNam",
+				"maleNames\tList<string>"
+			],
+			[
+				"Rea",
+				"ReadLine()\tstring"
+			],
+			[
+				"male",
+				"maleNameFile\tStreamReader"
+			],
+			[
+				"lastN",
+				"lastNames\tList<string>"
+			],
+			[
+				"last",
+				"lastName\tstring"
+			],
+			[
+				"default",
+				"defaultAlly\tGameObject"
+			],
+			[
+				"atta",
+				"attackRoll\tint"
+			],
+			[
+				"_pat",
+				"_patrolPoints\tVector3[]"
+			],
+			[
+				"patrol",
+				"patrolPoint\tGameObject"
+			],
+			[
+				"Vehic",
+				"Vehicle\tVehicle"
+			],
+			[
+				"IsIn",
+				"IsInSensorRange\tIsInSensorRange"
+			],
+			[
+				"enemy",
+				"enemyVehicleData\tVehicleData"
+			],
+			[
+				"Res",
+				"ResetBehaviorTree()\tvoid"
+			],
+			[
+				"AIplit",
+				"AIPilotNPC\tAIPilotNPC"
+			],
+			[
+				"p",
+				"PauseWhenDisabled\tbool { get; set; }"
+			],
+			[
+				"lang",
+				"langaugeFonts\tLanguageFont[]"
+			],
+			[
+				"lan",
+				"langaugeFonts\tLanguageFont[]"
+			],
+			[
+				"sprite",
+				"spriteHeavyMech\tSprite"
+			],
+			[
+				"skillPi",
+				"skillPilotingModifier\tint"
+			],
+			[
+				"defaul",
+				"defaultTrait\tPilotTrait"
+			],
+			[
+				"To",
+				"ToArray()\tTraitType[]"
+			],
+			[
+				"acti",
+				"activeInHierarchy\tbool { get; }"
+			],
+			[
+				"_cap",
+				"_captured\tbool"
+			],
+			[
+				"_capture",
+				"_slaveCaptureNodes\tList<GameObject>"
+			],
+			[
+				"un",
+				"unscaledDeltaTime\tfloat { get; }"
+			],
+			[
+				"_sla",
+				"_slaveCaptureNoees\tList<ParticleSystem>"
+			],
+			[
+				"slave",
+				"slaveCaptureVfx\tGameObject"
+			],
+			[
+				"Dela",
+				"DelayedCreateSlaveVFX()\tIEnumerator"
+			],
+			[
+				"game",
+				"gameStateType\tGameStateType"
+			],
+			[
+				"ac",
+				"activeInHierarchy\tbool { get; }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/game.cpp",
+			"settings":
+			{
+				"buffer_size": 1113,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "#include <nds.h>"
+			}
+		},
+		{
+			"file": "/D/projects/devkitPro/examples/nds/Graphics/Sprites/allocation_test/source/main.c",
+			"settings":
+			{
+				"buffer_size": 5741,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/terenctb/.emulationstation/es_systems.cfg",
+			"settings":
+			{
+				"buffer_size": 6810,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/gb/gameyobds.ini",
+			"settings":
+			{
+				"buffer_size": 17,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "rompath=/gb/roms/"
+			}
+		},
+		{
+			"file": "/C/Users/terenctb/.emulationstation/gamelists/nes/gamelist.xml",
+			"settings":
+			{
+				"buffer_size": 8268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/main.cpp",
+			"settings":
+			{
+				"buffer_size": 3197,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/projects/devkitPro/msys/home/terenctb/manual/code/chapter_5-backgrounds/source/main.cpp",
+			"settings":
+			{
+				"buffer_size": 5244,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 8397,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"lfile",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"P",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 527.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/devkitPro/msys/home/terenctb/projects/tictactoe/source",
+		"/D/projects/devkitPro/msys/home/terenctb/projects/tictactoe/build",
+		"/D/projects/devkitPro/msys/home/terenctb/projects/tictactoe/gfx"
+	],
+	"file_history":
+	[
+		"/C/Users/terenctb/Desktop/GraphicsConfiguration.xml",
+		"/D/projects/gearworks/Research/deeplearning/5-Course/1-Week/QuizAnswers.txt",
+		"/C/Users/terenctb/.emulationstation/gamelists/snes/gamelist.xml",
+		"/D/emulation/RetroArch/retroarch.cfg",
+		"/D/projects/devkitPro/examples/nds/Graphics/Sprites/bitmap_sprites/source/main.cpp",
+		"/D/projects/devkitPro/examples/nds/Graphics/Sprites/simple/source/template.c",
+		"/D/projects/devkitPro/msys/home/terenctb/projects/tictactoe/source/main.cpp",
+		"/D/projects/devkitPro/examples/nds/input/Touch_Pad/touch_test/source/main.c",
+		"/D/projects/devkitPro/examples/nds/input/Touch_Pad/touch_area/source/template.c",
+		"/D/projects/devkitPro/examples/nds/input/Touch_Pad/touch_look/source/main.cpp",
+		"/D/projects/devkitPro/msys/home/terenctb/manual/code/chapter_5-backgrounds/gfx/starField.grit",
+		"/D/projects/devkitPro/msys/home/terenctb/projects/tictactoe/gfx/backgroundBoard.grit",
+		"/D/projects/devkitPro/msys/home/terenctb/projects/tictactoe/tictactoe.sublime-project",
+		"/D/projects/devkitPro/msys/home/terenctb/manual/code/chapter_0-starting_system/Makefile",
+		"/D/projects/devkitPro/examples/nds/Graphics/Backgrounds/16bit_color_bmp/Makefile",
+		"/D/projects/devkitPro/examples/nds/Graphics/Backgrounds/16bit_color_bmp/source/template.cpp",
+		"/D/projects/devkitPro/msys/home/terenctb/manual/code/chapter_5-backgrounds/gfx/orangeShuttle.grit",
+		"/D/projects/devkitPro/examples/nds/Graphics/Backgrounds/rotation/source/main.cpp",
+		"/D/projects/devkitPro/examples/nds/Graphics/Sprites/animate_simple/source/template.c",
+		"/D/projects/gearworks/Research/deeplearning/4-Course/4-Week/Programming Style Notes.txt",
+		"/D/emulation/devreorder-master/README.md",
+		"/D/projects/devkitPro/examples/nds/input/addon/source/addon.c",
+		"/D/projects/gearworks/Research/deeplearning/4-Course/4-Week/QuizAnswers.txt",
+		"/D/emulation/mame0157b/docs/config.txt",
+		"/D/projects/gearworks/tech/ps2/docs/tutorial/ps2tut/ps2tut_01/g2.c",
+		"/D/projects/gearworks/tech/ps2/docs/tutorial/ps2tut/ps2tut_01/dma_asm.s",
+		"/D/projects/gearworks/tech/ps2/docs/tutorial/ps2tut/ps2tut_01/crt0.s",
+		"/D/projects/gearworks/Research/deeplearning/4-Course/3-Week/QuizAnswers",
+		"/D/projects/gearworks/tech/ps2/docs/tutorial/ps2tut/ps2tut_01/regs.h",
+		"/D/projects/gearworks/tech/ps2/docs/tutorial/ps2tut/ps2tut_01/gs_asm.s",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign2.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign8.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign7.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign1.json",
+		"/D/projects/devkitPro/examples/nds/hello_world/source/main.cpp",
+		"/D/emulation/psx/games/Crash_Bandicoot.cue",
+		"/D/emulation/psx/games/Suikoden (v1.1).cue",
+		"/D/projects/ps2/PS2LinuxSubSystem.txt",
+		"/D/projects/gearworks/Research/deeplearning/4-Course/2-Week/QuizAnswers.txt",
+		"/D/projects/gearworks/Research/deeplearning/4-Course/2-Week/Keras Programming notes",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign3.json",
+		"/D/emulation/psx/games/Crash Bandicoot.cue",
+		"/C/Users/terenctb/Desktop/SystemNotes.txt",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign5.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign6.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign4.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Campaign/Resources/Campaign9.json",
+		"/D/projects/gearworks/Research/deeplearning/4-Course/1-CNN/QuizAnswers.txt",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Data/Reward.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Mission/MissionView.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Mission/MissionController.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Barrack/BarrackController.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Barrack/BarrackView.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Barrack/BarrackButtonUpgrade.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Barrack/BarrackTrait.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Market/MarketItems.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/GlobalSettings.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Data/Pilot.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameStateManager/GameState/GameStateReward.cs",
+		"/D/projects/gearworks/Research/deeplearning/1-Course/2-Week/Quiz/question8.py",
+		"/D/projects/mech_svn/mech/Assets/Resources/pilotPrice.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Market/MarketDisplayPilot.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Market/MarketModel.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/BackgroundMission.cs",
+		"/D/projects/mech_svn/mech/Assets/Resources/vehiclePrice.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Data/Mission.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameRules.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Barrack/BarrackTraitButton.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Misc/AudioManagerBase.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Hanger/UIHangerWeapon.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Data/Vehicle.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Vehicle/VehicleData.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/BaseView.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Data/CommanderProfile.cs",
+		"/D/projects/mech_svn/mech/Assets/Resources/weaponPrice.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Market/MarketDisplayVehicle.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Market/MarketDisplayWeapon.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Weapon/WeaponData.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Hanger/HangerController.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Hanger/HangerView.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/IconCreate/DumpTexture.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Market/BaseCamera.cs",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Skirmish/Resources/Skirmish1.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Skirmish/Resources/Skirmish2.json",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Skirmish/Resources/Skirmish3.json",
+		"/D/projects/mech_svn/mech/Assets/Exo planets/READ ME.txt",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/UI/RewardView.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/UI/ObjectiveFailureView.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameStateManager/GameState/GameStateEndFailure.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/HonorManager.cs",
+		"/D/projects/mech_svn/mech/Assets/FORGE3D/HelpMenu/Editor/F3DHelpMenu.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/MissionObjective/MissionObjective.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Mission/UIMissionModifier.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Deploy/DeployView.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Deploy/DeployController.cs",
+		"/D/projects/mech_svn/mech/Assets/Scenes/Simulation/Resources/Simulation1.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Data/MissionManager.cs",
+		"/D/projects/mech_svn/mech/Assets/Resources/OfflineMissionIndex.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Misc/UtilGeneral.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Conversation/ConversationController.cs",
+		"/D/projects/mech_svn/mech/Assets/Conversation/Story/Campaign1-Briefing.json",
+		"/D/projects/mech_svn/mech/Assets/Conversation/Story/Campaign1-Summary.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Misc/HideAfterGameTime.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Misc/HideWhenGameTime.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Combat/BattleManager.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Conversation/ConversationManager.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Misc/HideWhenPlayerInRange.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Misc/Bounce.cs",
+		"/D/projects/mech_svn/mech/Assets/Conversation/Story/Intro1.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameStateManager/GameStateManager.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameStateManager/GameState/GameStateStart.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameStateManager/GameState/GameStateEndSuccess.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Base/Mission/MissionDeploying.cs",
+		"/D/projects/mech_svn/mech/Assets/Conversation/Story/Story1-Briefing.json",
+		"/D/projects/mech_svn/mech/Assets/Conversation/Story/Story1-Outro.json",
+		"/D/projects/mech_svn/mech/Assets/Conversation/Story/Story1-Intro.json",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Util/Locale/LM.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/IntroController.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameStateManager/GameState/GameStateIntro.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/GameStateManager/GameState/GameStateOutro.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Deployment/DeploymentController.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/Deployment/Deployment.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/UI/MenuMain.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/AI/NPCManager.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/AI/NPCPilotSelector.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/MissionObjective/CustomObjectives/ObjectiveAttackBase.cs",
+		"/D/projects/mech_svn/mech/Assets/Scripts/Game/MissionObjective/CustomObjectives/ObjectiveDefendBase.cs",
+		"/D/projects/mech_svn/mech/Assets/Editor/Game/NPCPilotSelectorInspector.cs"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\projects\\mech_svn\\mech\\Assets\\Scripts",
+			"D:\\projects\\mech\\mech\\Assets",
+			"C:\\projects\\mech\\mech\\Assets",
+			"C:\\projects\\mech\\mech\\Assets\\Scripts",
+			"C:\\projects\\poker\\BOVP\\Assets\\Scripts",
+			"C:\\projects\\mech\\mech\\Assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"our",
+			"Defend",
+			"avail",
+			"textBioTech",
+			"DecodeRewards",
+			"currentCommander",
+			"vehcile",
+			"vehicle",
+			"yield",
+			"cameraWithRendTexture",
+			"_vehicleObjects",
+			"ClearVehicles",
+			"_vehicleObject",
+			"BioTechManager.GetTotal()",
+			"bonus",
+			"ProcessReward",
+			"DecodeMo",
+			"false",
+			"bonussalvage",
+			"bonusbio",
+			"Enum.Parse",
+			"NonSerialized",
+			"OnConversationEnd",
+			"_canvas",
+			"npc",
+			"initialDestination",
+			"GetPilot",
+			"VehicleStatus.Online",
+			"VehicleStatus.InActive",
+			"WeaponGroup",
+			"collisionBounds",
+			"muzzleFlash",
+			"PlayMechSelectedSound",
+			"GetComponent<AudioSource>()",
+			"SetState",
+			"SetGameState",
+			"\t\t\t\n",
+			"deploymentLocked",
+			"Decode",
+			"{\n",
+			"Queue",
+			"male",
+			"SetFaction",
+			"aiPilotNPC.target ",
+			"Disabled",
+			"Reset",
+			"ObjectiveStatusChanged",
+			"StatusChange",
+			"ActivateVe",
+			"patrolPoints",
+			"Activate",
+			"StripPatrol",
+			"initialDestination",
+			"initialDes",
+			"IsPlayer",
+			"Disabled",
+			"NPCDisabled",
+			"Component",
+			"currentLanguage",
+			"imageVe",
+			"AssignPilot",
+			"manager",
+			"slaveCaptureVfx",
+			"WaitForReal",
+			"Delayed",
+			"threatDropAmount",
+			"threatInitial",
+			"initialThreat",
+			"_startThreat",
+			"ThreatDropUpdate",
+			"Faction",
+			"_vehicleData",
+			"threatThreshold",
+			"SetGameState",
+			"objectiveDirection",
+			"ProcessBonusRewards",
+			"weaponGroup",
+			"AttackActual",
+			"_combatAttack.defender",
+			"combatAttack.defender",
+			"weaponData.attacker",
+			"_combatAttack.a",
+			"weaponData.combatAttack",
+			"startStatus",
+			"_damage",
+			"_selectionPath",
+			"deactivateM",
+			"Ammo",
+			"targetInfo",
+			"StopCombat",
+			"targetInfo",
+			"range",
+			"weaponMaxRange",
+			"Disabled",
+			"Queue",
+			"SetStatus",
+			"_waypointLine",
+			"_meshRender",
+			"_activeView",
+			"textCre",
+			"textCredit",
+			"using System.Collections;\n",
+			"textCredit",
+			"startingPilots",
+			"defaultPilotList",
+			"_meshRenderers",
+			"_mechRenders",
+			"_mechRender",
+			"disabledMa",
+			"notifyFriendRange",
+			"NotifyFriends",
+			"groupTarget",
+			"OnPilotClick",
+			"currentMech",
+			"maxStructuralIntegrity",
+			"Disabled",
+			"difficulty",
+			"JsonFx",
+			"LoadSlot",
+			"ContainsKey(",
+			"Serialize",
+			"JsonFx",
+			"System.Enum",
+			"VehicleGrade",
+			".ContainsKey(",
+			"Json",
+			"JsonFX",
+			"Json"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Instance",
+			"local",
+			"offline",
+			"Local",
+			"_worldColliders",
+			"_instance",
+			"instance",
+			"this.instance",
+			".debugCombatLog",
+			"aiPilotNPC",
+			"SessionManagerOld",
+			"SessionMangerOld",
+			"newTraitIndex",
+			"currentActivePilot",
+			"currentMech",
+			"panelEquipment",
+			"panelPilot",
+			"rank",
+			"repair",
+			"\"grade\" : 0",
+			"prefab",
+			"creditmax",
+			"creditmin",
+			"_marketController",
+			"prefabname",
+			"prefabName",
+			"MarketController",
+			"VehicleData",
+			"_battleManager",
+			"Instance",
+			"BattleManager.MyTeamTag",
+			"MyTeamTag",
+			"VehicleModificationData",
+			"VehicleGrade",
+			"ResourceGUID",
+			"weaponVersion",
+			"weaponPriceListFile",
+			"_defendRoll",
+			"_attackRoll",
+			"maneuverRangeSet",
+			"_playerSelected.selectedTarget",
+			"weapon",
+			"target"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/game.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <nds.h>",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/projects/devkitPro/examples/nds/Graphics/Sprites/allocation_test/source/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2295.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/terenctb/.emulationstation/es_systems.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6776,
+								6776
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 981.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/F/gb/gameyobds.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_name": "rompath=/gb/roms/",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/terenctb/.emulationstation/gamelists/nes/gamelist.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1305.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2110,
+								2110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1455.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/projects/devkitPro/msys/home/terenctb/manual/code/chapter_5-backgrounds/source/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8397,
+								8397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 158.0
+	},
+	"pinned_build_system": "",
+	"project": "tictactoe.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pilot",
+				"Scripts\\Data\\Pilot.cs"
+			],
+			[
+				"globalset",
+				"Scripts\\GlobalSettings.cs"
+			],
+			[
+				"marketpil",
+				"Scripts\\Base\\Market\\MarketDisplayPilot.cs"
+			],
+			[
+				"marketmod",
+				"Scripts\\Base\\Market\\MarketModel.cs"
+			],
+			[
+				"barrackcon",
+				"Scripts\\Base\\Barrack\\BarrackController.cs"
+			],
+			[
+				"marketmodle",
+				"Scripts\\Base\\Market\\MarketModel.cs"
+			],
+			[
+				"vehicle",
+				"Scripts\\Data\\Vehicle.cs"
+			],
+			[
+				"comman",
+				"Scripts\\Data\\CommanderProfile.cs"
+			],
+			[
+				"mission",
+				"Scripts\\Data\\Mission.cs"
+			],
+			[
+				"rewar",
+				"Scripts\\Data\\Reward.cs"
+			],
+			[
+				"vehicledata",
+				"Scripts\\Game\\Vehicle\\VehicleData.cs"
+			],
+			[
+				"globa",
+				"Scripts\\GlobalSettings.cs"
+			],
+			[
+				"reward",
+				"Scripts\\Game\\UI\\RewardView.cs"
+			],
+			[
+				"uimo",
+				"Scripts\\Base\\Mission\\UIMissionModifier.cs"
+			],
+			[
+				"missioncon",
+				"Scripts\\Base\\Mission\\MissionController.cs"
+			],
+			[
+				"missionview",
+				"Scripts\\Base\\Mission\\MissionView.cs"
+			],
+			[
+				"uimi",
+				"Scripts\\Base\\Mission\\UIMissionModifier.cs"
+			],
+			[
+				"ut",
+				"Scripts\\Game\\Misc\\UtilGeneral.cs"
+			],
+			[
+				"gamerules",
+				"Scripts\\Game\\GameRules.cs"
+			],
+			[
+				"battlema",
+				"Scripts\\Game\\Combat\\BattleManager.cs"
+			],
+			[
+				"convers",
+				"Scripts\\Conversation\\ConversationManager.cs"
+			],
+			[
+				"conversationco",
+				"Scripts\\Conversation\\ConversationController.cs"
+			],
+			[
+				"gamestaterew",
+				"Scripts\\Game\\GameStateManager\\GameState\\GameStateReward.cs"
+			],
+			[
+				"gamestatem",
+				"Scripts\\Game\\GameStateManager\\GameStateManager.cs"
+			],
+			[
+				"missionmana",
+				"Scripts\\Data\\MissionManager.cs"
+			],
+			[
+				"basedepl",
+				"Scripts\\Base\\Mission\\MissionDeploying.cs"
+			],
+			[
+				"objectiveatt",
+				"Scripts\\Game\\MissionObjective\\CustomObjectives\\ObjectiveAttackBase.cs"
+			],
+			[
+				"npcpil",
+				"Scripts\\Game\\AI\\NPCPilotSelector.cs"
+			],
+			[
+				"barrac",
+				"Scripts\\Base\\Barrack\\BarrackController.cs"
+			],
+			[
+				"npcpilot",
+				"Editor\\Game\\NPCPilotSelectorInspector.cs"
+			],
+			[
+				"npcmana",
+				"Scripts\\Game\\AI\\NPCManager.cs"
+			],
+			[
+				"door",
+				"Scripts\\Game\\Environment\\Door.cs"
+			],
+			[
+				"objectivdef",
+				"Scripts\\Game\\MissionObjective\\CustomObjectives\\ObjectiveDefendBase.cs"
+			],
+			[
+				"findclos",
+				"Scripts\\Game\\AI\\Tasks\\FindClosestTarget.cs"
+			],
+			[
+				"gamecam",
+				"Scripts\\Game\\UI\\Camera\\GameCamera.cs"
+			],
+			[
+				"audio",
+				"Scripts\\Game\\Misc\\AudioManager.cs"
+			],
+			[
+				"gameview",
+				"Scripts\\Game\\UI\\GameView.cs"
+			],
+			[
+				"abilitydat",
+				"Scripts\\Game\\Pilot\\Ability\\AbilityData.cs"
+			],
+			[
+				"vehicl",
+				"Scripts\\Data\\Vehicle.cs"
+			],
+			[
+				"weaoncontrollerpro",
+				"Scripts\\Game\\Weapon\\WeaponControllerProjectile.cs"
+			],
+			[
+				"weapondata",
+				"Scripts\\Game\\Weapon\\WeaponData.cs"
+			],
+			[
+				"weaponcon",
+				"Scripts\\Game\\Weapon\\WeaponController.cs"
+			],
+			[
+				"command",
+				"Scripts\\Data\\CommanderProfile.cs"
+			],
+			[
+				"pilotdata",
+				"Scripts\\Game\\Pilot\\PilotData.cs"
+			],
+			[
+				"missionvie",
+				"Scripts\\Base\\Mission\\MissionView.cs"
+			],
+			[
+				"audiom",
+				"Scripts\\Game\\Misc\\AudioManager.cs"
+			],
+			[
+				"ontro",
+				"Scripts\\Game\\Environment\\ControlNode.cs"
+			],
+			[
+				"common",
+				"Scripts\\Util\\Common.cs"
+			],
+			[
+				"battleman",
+				"Scripts\\Game\\Combat\\BattleManager.cs"
+			],
+			[
+				"battlemana",
+				"Scripts\\Game\\Combat\\BattleManager.cs"
+			],
+			[
+				"missionm",
+				"Scripts\\Game\\MissionObjective\\MissionObjectiveManager.cs"
+			],
+			[
+				"npcpi",
+				"Editor\\Game\\NPCPilotSelectorInspector.cs"
+			],
+			[
+				"deploycon",
+				"Scripts\\Base\\Deploy\\DeployController.cs"
+			],
+			[
+				"vehiclecon",
+				"Scripts\\Game\\Vehicle\\VehicleController.cs"
+			],
+			[
+				"patrolman",
+				"Scripts\\Game\\Vehicle\\PatrolManager.cs"
+			],
+			[
+				"name",
+				"Scripts\\Data\\NameGenerator.cs"
+			],
+			[
+				"global",
+				"Scripts\\GlobalSettings.cs"
+			],
+			[
+				"combata",
+				"Scripts\\Game\\Combat\\CombatAttack.cs"
+			],
+			[
+				"addth",
+				"Scripts\\Game\\AI\\Tasks\\AddThreatTarget.cs"
+			],
+			[
+				"flank",
+				"Scripts\\Game\\AI\\Tasks\\Flank.cs"
+			],
+			[
+				"stra",
+				"Scripts\\Game\\AI\\Tasks\\Strafe.cs"
+			],
+			[
+				"npcpilotsele",
+				"Editor\\Game\\NPCPilotSelectorInspector.cs"
+			],
+			[
+				"inrange",
+				"Scripts\\Game\\AI\\Tasks\\InRange.cs"
+			],
+			[
+				"patrol",
+				"Scripts\\Game\\AI\\Tasks\\Patrol.cs"
+			],
+			[
+				"ai",
+				"Scripts\\Game\\AI\\AIPilot.cs"
+			],
+			[
+				"modify",
+				"Scripts\\Game\\AI\\Tasks\\ModifyThreatOnTarget.cs"
+			],
+			[
+				"missionobje",
+				"Scripts\\Game\\MissionObjective\\MissionObjective.cs"
+			],
+			[
+				"objec",
+				"Scripts\\Game\\MissionObjective\\CustomObjectives\\Objective.cs"
+			],
+			[
+				"checkgroupt",
+				"Scripts\\Game\\AI\\Tasks\\CheckGroupTarget.cs"
+			],
+			[
+				"findclo",
+				"Scripts\\Game\\AI\\Tasks\\FindClosestTarget.cs"
+			],
+			[
+				"patrolmana",
+				"Scripts\\Game\\Vehicle\\PatrolManager.cs"
+			],
+			[
+				"npcpilotin",
+				"Editor\\Game\\NPCPilotSelectorInspector.cs"
+			],
+			[
+				"patrolpoin",
+				"Scripts\\Game\\Vehicle\\PatrolPoint.cs"
+			],
+			[
+				"proce",
+				"Scripts\\Game\\AI\\Tasks\\ProcessOrder.cs"
+			],
+			[
+				"threat",
+				"Scripts\\Game\\AI\\ThreatTable.cs"
+			],
+			[
+				"vehiceldata",
+				"Scripts\\Game\\Vehicle\\VehicleData.cs"
+			],
+			[
+				"batt",
+				"Scripts\\Game\\Combat\\BattleManager.cs"
+			],
+			[
+				"isinwe",
+				"Scripts\\Game\\AI\\Tasks\\InWeaponsRange.cs"
+			],
+			[
+				"modif",
+				"Scripts\\Game\\AI\\Tasks\\ModifyThreatOnTarget.cs"
+			],
+			[
+				"isin",
+				"Scripts\\Game\\AI\\Tasks\\IsInSensorRange.cs"
+			],
+			[
+				"gethi",
+				"Scripts\\Game\\AI\\Tasks\\GetHighestThreat.cs"
+			],
+			[
+				"battle",
+				"Scripts\\Game\\Combat\\BattleManager.cs"
+			],
+			[
+				"aipilot",
+				"Scripts\\Game\\AI\\AIPilot.cs"
+			],
+			[
+				"ainpc",
+				"Scripts\\Game\\AI\\AIPilotNPC.cs"
+			],
+			[
+				"gamerule",
+				"Scripts\\Game\\GameRules.cs"
+			],
+			[
+				"lm.",
+				"Scripts\\Util\\Locale\\LM.cs"
+			],
+			[
+				"pilottra",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTrait.cs"
+			],
+			[
+				"pilottraitm",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitManager.cs"
+			],
+			[
+				"pilottran",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitLoner.cs"
+			],
+			[
+				"pilothea",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitHeavyMechSpecialist.cs"
+			],
+			[
+				"pilottraitli",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitLightMechSpecialist.cs"
+			],
+			[
+				"pilottraitas",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitAssault.cs"
+			],
+			[
+				"pilottraitme",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitMediumMechSpecialist.cs"
+			],
+			[
+				"interfa",
+				"Scripts\\Game\\UI\\Game\\InterfaceRadar.cs"
+			],
+			[
+				"pilottraiten",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitEngineer.cs"
+			],
+			[
+				"trai",
+				"Scripts\\Game\\Pilot\\Traits\\PilotTraitManager.cs"
+			],
+			[
+				"commander",
+				"Scripts\\Data\\CommanderProfile.cs"
+			],
+			[
+				"checkg",
+				"Scripts\\Game\\AI\\Tasks\\CheckGroupTarget.cs"
+			],
+			[
+				"util",
+				"Scripts\\Game\\Misc\\UtilGeneral.cs"
+			],
+			[
+				"messenger",
+				"Scripts\\Game\\Misc\\MessageManagerScript.cs"
+			],
+			[
+				"vheicledata",
+				"Scripts\\Game\\Vehicle\\VehicleData.cs"
+			],
+			[
+				"modifyth",
+				"Scripts\\Game\\AI\\Tasks\\ModifyThreatOnTarget.cs"
+			],
+			[
+				"aipilotnpc",
+				"Scripts\\Game\\AI\\AIPilotNPC.cs"
+			],
+			[
+				"get",
+				"Scripts\\Game\\AI\\Tasks\\GetHighestThreat.cs"
+			],
+			[
+				"assignw",
+				"Scripts\\Game\\AI\\Tasks\\AssignWeapons.cs"
+			],
+			[
+				"target",
+				"Scripts\\Game\\Pilot\\SystemTargetting.cs"
+			],
+			[
+				"isinran",
+				"Scripts\\Game\\AI\\Tasks\\InRange.cs"
+			],
+			[
+				"geth",
+				"Scripts\\Game\\AI\\Tasks\\GetHighestThreat.cs"
+			],
+			[
+				"modi",
+				"Scripts\\Game\\AI\\Tasks\\ModifyThreatOnTarget.cs"
+			],
+			[
+				"inwe",
+				"Scripts\\Game\\AI\\Tasks\\InWeaponsRange.cs"
+			],
+			[
+				"thre",
+				"Scripts\\Game\\AI\\ThreatTable.cs"
+			],
+			[
+				"aipilo",
+				"Scripts\\Game\\AI\\AIPilot.cs"
+			],
+			[
+				"threa",
+				"Scripts\\Game\\AI\\ThreatTable.cs"
+			],
+			[
+				"battlem",
+				"Scripts\\Game\\Combat\\BattleManager.cs"
+			],
+			[
+				"playermo",
+				"Scripts\\Game\\AI\\Tasks\\PlayerMovement.cs"
+			],
+			[
+				"system",
+				"Scripts\\Game\\Pilot\\SystemTargetting.cs"
+			],
+			[
+				"aiplayer",
+				"Scripts\\Game\\AI\\AIPilotPlayer.cs"
+			],
+			[
+				"bat",
+				"Scripts\\Game\\Combat\\BattleManager.cs"
+			],
+			[
+				"finden",
+				"Scripts\\Game\\AI\\Tasks\\FindEnemyTarget.cs"
+			],
+			[
+				"assign",
+				"Scripts\\Game\\AI\\Tasks\\AssignWeapons.cs"
+			],
+			[
+				"aip",
+				"Scripts\\Game\\AI\\AIPilotPlayer.cs"
+			],
+			[
+				"combat",
+				"Scripts\\Game\\Combat\\CombatAttack.cs"
+			],
+			[
+				"wea",
+				"Scripts\\Game\\Weapon\\WeaponControllerPlasma.cs"
+			],
+			[
+				"weaponcontrol",
+				"Scripts\\Game\\Weapon\\WeaponControllerMissile.cs"
+			],
+			[
+				"weaponpr",
+				"Scripts\\Game\\Weapon\\WeaponControllerProjectile.cs"
+			],
+			[
+				"projec",
+				"Scripts\\Game\\Weapon\\ProjectileController.cs"
+			],
+			[
+				"vehic",
+				"Scripts\\Game\\Vehicle\\VehicleController.cs"
+			],
+			[
+				"weaponc",
+				"Scripts\\Game\\Weapon\\WeaponControllerMissile.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\projects\\bartender_svn\\tech\\LastCall\\bartender.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
